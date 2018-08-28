@@ -1,1 +1,9 @@
-asd
+Proyecto Kim
+El objetivo 1 seria crear una pagina para alguna marca de ropa
+
+El objetivo 2 seria poder crear una pagina para ventas online de ropa
+la pagina tendria sub paginas para cada articulo/modelo con detalles -> estilo adidas.com
+
+
+Objetivo 3 seria armar un portal para varias marcas de ropa
+
