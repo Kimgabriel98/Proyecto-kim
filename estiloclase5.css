@@ -1,0 +1,14 @@
+p{
+    font-family: verdana;
+    border-color: aqua;
+    text-align: center;
+}
+body{
+    background-color: azure;
+}
+h1{
+    font-family: fantasy;
+}
+td{
+    list-style-type: decimal-leading-zero;
+}

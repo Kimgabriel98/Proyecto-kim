@@ -1,8 +1,10 @@
 *{
     font-family: verdana;
+    font-size: 0.98em;
     
 }
 header{
+    padding-top: 1px;
     margin-top: 1px;
     background-color: #3d60a0;
 }
@@ -12,5 +14,19 @@ h1{
     margin-left: 20%;
 }
 body{
-    background-color:#c0c9da;
+    background-color:#e9ecf0;
+}
+h2{
+    text-decoration: underline;
+}
+.masinformacion{
+            margin-left: 20%;
+}
+footer{
+    background-color: floralwhite;
+
+}
+ul{
+    list-style: none;
+    
 }
