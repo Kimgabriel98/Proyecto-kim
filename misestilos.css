@@ -1,0 +1,16 @@
+*{
+    font-family: verdana;
+    
+}
+header{
+    margin-top: 1px;
+    background-color: #3d60a0;
+}
+h1{
+        font-size: 300%;
+        color: white;
+    margin-left: 20%;
+}
+body{
+    background-color:#c0c9da;
+}
