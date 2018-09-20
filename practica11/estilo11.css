@@ -1,0 +1,51 @@
+
+div{
+    display: inline-block;
+}
+.rojo{
+
+    color: whitesmoke;
+    background-color: red;
+    height: 40vh;
+    width: 70vw;
+    max-width: 70vw;
+    margin-bottom: 1em;
+    -webkit-border-radius: 1em;
+        text-indent: 10px;
+
+} 
+
+
+.azul{
+    clear: both;
+    color: whitesmoke;
+    background-color: blue;
+    height: 40vh;
+    width: 70vw;
+    max-width: 70vw;
+    position: relative;
+    bottom: 40vh;
+    -webkit-border-radius: 1em;
+    text-indent: 10px;
+}
+.azukr{
+    position: relative;
+    text-align: center;
+    max-width: 70vw;
+    width: 70vw;
+    top: 5em;
+}
+.verde{
+
+    color: whitesmoke;
+    background-color: green;
+    height: 81vh;
+    max-width: 25vw;
+    position: relative;
+    width: 30vh;
+    margin-left: 1em;
+    margin-top: 1em;
+    right: 1em;
+    -webkit-border-radius: 1em;
+        text-indent: 10px;
+}
