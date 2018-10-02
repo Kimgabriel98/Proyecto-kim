@@ -25,6 +25,6 @@ div:hover{
 	 transform: scale(1.5);
     transform:
 }
-div:hover .p{
+div:hover.p{
     transform: scale(2);
 }
